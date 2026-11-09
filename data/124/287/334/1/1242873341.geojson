@@ -43,7 +43,7 @@
         "wk:page":"Kuuk"
     },
     "wof:country":"GL",
-    "wof:geomhash":"f90d1f90619920c4721a8644f31584a4",
+    "wof:geomhash":"b46197e019a8b0d11241d1210ecb460c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,5 +68,5 @@
     -56.21666999999999,
     73.7
 ],
-  "geometry": {"coordinates":[-56.21666999999999,73.7],"type":"Point"}
+  "geometry": {"coordinates":[-56.21667,73.7],"type":"Point"}
 }

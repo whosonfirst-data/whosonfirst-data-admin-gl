@@ -50,7 +50,7 @@
         "wk:page":"Ataa"
     },
     "wof:country":"GL",
-    "wof:geomhash":"bd09745a03995297d9734c4d3efa29c8",
+    "wof:geomhash":"5b8e9269bc395b642e896f9b6b090d98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -50.95,
     69.76666999999999
 ],
-  "geometry": {"coordinates":[-50.95,69.76666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-50.95,69.76667],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "wk:page":"Narsaarsuk"
     },
     "wof:country":"GL",
-    "wof:geomhash":"35758ee54c99ba8df5d3525ec348a7cc",
+    "wof:geomhash":"4818d6f0543c7bd3ec92b8b9d950c913",
     "wof:hierarchy":[
         {
             "country_id":85633217,
@@ -64,5 +64,5 @@
     -69.30794,
     76.44731999999998
 ],
-  "geometry": {"coordinates":[-69.30794,76.44731999999998],"type":"Point"}
+  "geometry": {"coordinates":[-69.30794,76.44732],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "gn:id":3420093
     },
     "wof:country":"GL",
-    "wof:geomhash":"419ee09c9cf775d7796ce022664ea6ef",
+    "wof:geomhash":"4875d2dd9e873313c7c63edfa8d893f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,5 +66,5 @@
     -52.46666999999999,
     66.86667
 ],
-  "geometry": {"coordinates":[-52.46666999999999,66.86667],"type":"Point"}
+  "geometry": {"coordinates":[-52.46667,66.86667],"type":"Point"}
 }

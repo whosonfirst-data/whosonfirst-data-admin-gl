@@ -128,7 +128,7 @@
         "wk:page":"Narsaq"
     },
     "wof:country":"GL",
-    "wof:geomhash":"ce3d79b855f1c58032c9ed2622129813",
+    "wof:geomhash":"a7f6a175530e5b80a68b5d7add774619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,5 +155,5 @@
     -46.05055,
     60.91298000000001
 ],
-  "geometry": {"coordinates":[-46.05055,60.91298000000001],"type":"Point"}
+  "geometry": {"coordinates":[-46.05055,60.91298],"type":"Point"}
 }

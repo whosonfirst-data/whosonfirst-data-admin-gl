@@ -54,7 +54,7 @@
     },
     "wof:country":"GL",
     "wof:created":1497046882,
-    "wof:geomhash":"bb105cd8622bcbbbb4e7abe747b6b5f5",
+    "wof:geomhash":"c3193595e648cf618b8bbc174ff8710e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,5 +81,5 @@
     -48.0,
     64.0
 ],
-  "geometry": {"coordinates":[-48.0,64.0],"type":"Point"}
+  "geometry": {"coordinates":[-48,64],"type":"Point"}
 }
