@@ -1,0 +1,77 @@
+{
+  "id": 9895094837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.84289,68.70716,-52.84289,68.70716",
+    "geom:latitude":68.70716,
+    "geom:longitude":-52.84289,
+    "gn:population":6500,
+    "iso:country":"GL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 11839534 (Qeqertalik): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11839534"
+        },
+        {
+            "citation":"GeoNames division 11839534 (Qeqertalik): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11839534"
+        },
+        {
+            "citation":"GeoNames division 11839534 (Qeqertalik): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11839534"
+        },
+        {
+            "citation":"GeoNames division 11839534 (Qeqertalik): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/11839534"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Qeqertalik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217,
+        102191575,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11839534
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"43710f3032070a194f5a188e1f8ea1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "empire_id":136253045,
+            "region_id":9895094837
+        }
+    ],
+    "wof:id":9895094837,
+    "wof:lastmodified":1795801300,
+    "wof:name":"Qeqertalik",
+    "wof:parent_id":85633217,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.84289,
+    68.70716,
+    -52.84289,
+    68.70716
+],
+  "geometry": {"coordinates":[-52.84289,68.70716],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895094838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.08301,69.21536,-51.08301,69.21536",
+    "geom:latitude":69.21536,
+    "geom:longitude":-51.08301,
+    "gn:population":10726,
+    "iso:country":"GL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 11839537 (Avannaata): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11839537"
+        },
+        {
+            "citation":"GeoNames division 11839537 (Avannaata): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11839537"
+        },
+        {
+            "citation":"GeoNames division 11839537 (Avannaata): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11839537"
+        },
+        {
+            "citation":"GeoNames division 11839537 (Avannaata): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/11839537"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Avannaata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217,
+        102191575,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11839537
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"9b0a604a867ba5287cfb91cf8a6e8f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "empire_id":136253045,
+            "region_id":9895094838
+        }
+    ],
+    "wof:id":9895094838,
+    "wof:lastmodified":1795801300,
+    "wof:name":"Avannaata",
+    "wof:parent_id":85633217,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.08301,
+    69.21536,
+    -51.08301,
+    69.21536
+],
+  "geometry": {"coordinates":[-51.08301,69.21536],"type":"Point"}
+}
